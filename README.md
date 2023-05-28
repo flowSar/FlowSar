@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flowsar&label=Profile%20views&color=0e75b6&style=flat" alt="flowsar" /> </p>
 
-- 🔭 I’m currently working on **ALX project based Software engineering**
+- 🔭 I’m currently Student at **ALX project based Software engineering**
 
 - 🌱 I’m currently learning **python, c, shell**
 
